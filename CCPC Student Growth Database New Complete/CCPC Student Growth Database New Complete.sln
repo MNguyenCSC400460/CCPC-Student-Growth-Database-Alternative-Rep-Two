@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CCPC Student Growth Database New Complete", "CCPC Student Growth Database New Complete\CCPC Student Growth Database New Complete.vbproj", "{192468D2-973F-4A73-AFF2-09E00668AF66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{192468D2-973F-4A73-AFF2-09E00668AF66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192468D2-973F-4A73-AFF2-09E00668AF66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192468D2-973F-4A73-AFF2-09E00668AF66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192468D2-973F-4A73-AFF2-09E00668AF66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BD39514-40CA-469C-8E85-DE4DC0D1CA4B}
+	EndGlobalSection
+EndGlobal
